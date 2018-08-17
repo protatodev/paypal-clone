@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.center {
+  text-align: center;
+}
+
+.paypal-gray {
+  background-color: #F7F9FA;
+  color: #25333A;
+}
+
+.paypal-blue {
+  color: #fff;
+  background-color: #009cde;
+  background-image: radial-gradient(circle farthest-side at center bottom, #009cde, #003087 125%);
+}
+
+.paypal-white {
+  color: #767676;
+  font-family: "pp-sans-small-regular", Helvetica Neue, Arial, sans-serif;
+  font-weight: normal;
+  font-variant: normal;
+}
