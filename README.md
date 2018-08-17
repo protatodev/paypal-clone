@@ -16,6 +16,8 @@ This website is designed to help users locate medical proffesionals in the great
 |-----------|
 | As a user, I need to be able to navigate the website using a navigation bar menu |
 | As a user, I need to have information clearly displayed on the website |
+| As a user, I need to be able to sign up for an account |
+| As a user, I need to be able to log into my account |
 
 ## SPECS
 
@@ -24,6 +26,7 @@ This website is designed to help users locate medical proffesionals in the great
 | Design navigation menu (header) using a dedicated component |
 | Design body and split features and areas of the body into separate components |
 | Design footer element using a dedicated component |
+| Design and implement features using components |
 
 ## Setup on OSX / Windows
 
