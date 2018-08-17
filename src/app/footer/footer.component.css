@@ -3,4 +3,21 @@
   color: #666;
   padding: 9px 0;
   font-weight: 700;
+  font-size: 12px;
+}
+
+.footer-nav-small small a {
+  margin: 10px;
+  color: #666;
+  padding: 9px 0;
+  font-weight: 600;
+  font-size: 11px;
+}
+
+.copy {
+  margin: 10px;
+  color: #666;
+  padding: 9px 0;
+  font-weight: 600;
+  font-size: 11px;
 }
