@@ -27,6 +27,9 @@ This website is designed to help users locate medical proffesionals in the great
 | Design body and split features and areas of the body into separate components |
 | Design footer element using a dedicated component |
 | Design and implement features using components |
+| Implement and deploy website to firebase |
+| Add routing for any additional pages |
+| Add authentication to allow user logins and account creation |
 
 ## Setup on OSX / Windows
 
