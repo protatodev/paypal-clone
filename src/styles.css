@@ -3,17 +3,24 @@
   text-align: center;
 }
 
+.lead {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 14px;
+  color: black;
+  font-weight: 400;
+}
+
 .paypal-gray {
-  font-family: "pp-sans-small-regular", Helvetica Neue, Arial, sans-serif;
-  font-weight: normal;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
   font-variant: normal;
   background-color: #F7F9FA;
   color: #25333A;
 }
 
 .paypal-blue {
-  font-family: "pp-sans-small-regular", Helvetica Neue, Arial, sans-serif;
-  font-weight: normal;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
   font-variant: normal;
   color: #fff;
   background-color: #009cde;
@@ -21,9 +28,9 @@
 }
 
 .paypal-white {
-  color: #767676;
-  font-family: "pp-sans-small-regular", Helvetica Neue, Arial, sans-serif;
-  font-weight: normal;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
   font-variant: normal;
   background-color: #fff;
 }
+
